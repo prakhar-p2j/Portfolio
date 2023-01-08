@@ -42,8 +42,8 @@ const PostTemplate = ({ data, location }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Yashita Namdeo</title>
-        <link rel="canonical" href="https://github.com/yashitanamdeo/pensieve" />
+        <title>{title} | Prakhar Jain</title>
+        <link rel="canonical" href="https://github.com/prakhar-p2j/Portfolio/tree/source/src/pages/pensieve" />
       </Helmet>
 
       <StyledPostContainer>
