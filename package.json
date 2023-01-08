@@ -1,11 +1,11 @@
 {
-  "name": "v1",
+  "name": "Portfolio",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
+  "author": "Prakhar Jain <prakharjain199@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
+    "url": "https://github.com/prakhar-p2j/Portfolio"
   },
   "keywords": [
     "gatsby"
