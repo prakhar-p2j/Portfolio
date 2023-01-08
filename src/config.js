@@ -23,10 +23,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/prakhar-p2j/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/prakhar_j2/',
     },
