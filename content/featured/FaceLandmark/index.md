@@ -1,15 +1,13 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
-cover: 'face-landmark.png'
+title: 'Web Scraping Cryptocurrencies Data'
+cover: 'Web scraping cyptocurrencies.png'
 github: 'https://github.com/yashitanamdeo/face-landmark-detection'
 external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
 tech:
-  - TensorFlow.JS
-  - React
+  - Python
+  - Jupyter notebook
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+Fetching the data of crypto-currencies using Beautiful Soup library of Python and arranging them in a dataframe using Pandas libary of Python. The first code in the file fetches data of 1000 Cryptocurrencies from 100 Pages of the website. And the Second code fetches the price history of Bitcoin.
