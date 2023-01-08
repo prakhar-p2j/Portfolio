@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
+name: 'Prakhar Jain'
+subtitle: 'I use data to tell meaningful stories and drive change'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+I'm a Business Analytics student skilled in turning vast amounts of raw data into actionable insights to encourage data-driven decision making.
 
 I enjoy learning new skills and implementing them in real life!
