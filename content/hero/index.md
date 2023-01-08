@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Prakhar Jain'
-subtitle: 'I use data to tell meaningful stories and drive change'
+subtitle: 'I turn raw data into stories'
 buttonText: 'Get In Touch'
 ---
 
