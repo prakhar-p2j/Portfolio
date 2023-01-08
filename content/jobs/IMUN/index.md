@@ -1,13 +1,10 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+date: '2020-11-11'
+title: 'Data Science Intern'
+company: 'Devtown'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'Dec 2021 - Feb 2022'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Engaged in learning the concepts of Data Science and understanding its practical applications.
+- Learning the use of Python and SQL in data science and making related projects.
