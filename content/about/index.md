@@ -4,11 +4,11 @@ avatar: 'prakhar.png'
 skills:
   - MySQL
   - Python
-  - Data Visualization
-  - Data Wrangling
-  - Exploratory data analysis
   - MS Excel
   - MS Access
+  - Data visualization
+  - Data wrangling
+  - Exploratory data analysis
   - Statistical Analysis
 ---
 
