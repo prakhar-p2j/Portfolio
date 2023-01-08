@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Prakhar Jain',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Prakhar Jain is a Data Analyst, who loves learning new things and helping companies to reveal data driven insights to solve business problems.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Prakhar Jain, Prakhar, Jain, prakharjain, data analyst, data scientist, sql, python, javascript, Baruch, New York',
+  siteUrl: 'https://source--test01p2j.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Prakhar Jain',
+  location: 'New York, USA',
+  email: 'prakharjain199@gmail.com',
+  github: 'https://github.com/prakhar-p2j',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/prakhar-p2j',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/prakhar-p2j/',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/prakhar_j2/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/prakhar_p2j',
     },
   ],
 
