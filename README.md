@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/prakhar-p2j/Portfolio/tree/source/src/images/logo P.png" width="100" />
+  <img alt="Logo" src="src/images/logo P.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
