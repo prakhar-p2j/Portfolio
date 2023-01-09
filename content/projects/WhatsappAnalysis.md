@@ -10,7 +10,7 @@ tech:
   - Pandas
   - Matplotlib
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Demonstrated analysis of WhatsApp chat; presented organized messages sent per person in 2 creative ways. Collated stats into visuals; organized emoji, media, and links sent count.
