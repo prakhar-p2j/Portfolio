@@ -2,8 +2,8 @@
 date: '1'
 title: 'Covid-19 Tracker'
 cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+github: ''
+external: ''
 tech:
   - ReactJS
   - Firebase
