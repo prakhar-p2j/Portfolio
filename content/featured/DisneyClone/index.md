@@ -9,7 +9,7 @@ tech:
   - Redux
   - Styled Components
   - Firebase
-showInProjects: true
+showInProjects: false
 ---
 
 Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.
