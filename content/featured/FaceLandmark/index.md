@@ -2,8 +2,8 @@
 date: '4'
 title: 'Web Scraping Cryptocurrencies Data'
 cover: 'Web scraping cyptocurrencies.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+github: 'https://github.com/prakhar-p2j/Web-Scraping-and-Data-Analysis-Cryptocurrencies'
+external: 'https://github.com/prakhar-p2j/Web-Scraping-and-Data-Analysis-Cryptocurrencies/blob/main/Data%20Analysis%20of%20Crypto%20Currencies.ipynb'
 tech:
   - Python
   - Jupyter notebook
