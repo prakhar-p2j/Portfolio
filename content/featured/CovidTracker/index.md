@@ -9,7 +9,7 @@ tech:
   - Firebase
   - Material UI
 
-showInProjects: true
+showInProjects: false
 ---
 
 Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
