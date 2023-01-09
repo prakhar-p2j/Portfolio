@@ -7,7 +7,7 @@ tech:
   - HTML
   - CSS
 company: 'Suven'
-showInProjects: true
+showInProjects: false
 ---
 
 Project 4 under HTML-CSS Suven Coding Internship
