@@ -10,7 +10,7 @@ tech:
   - CSS
   - Javascript
 company: 'JPMC'
-showInProjects: true
+showInProjects: false
 ---
 
 Completed 3 Modules assigned during the virtual internship program.
