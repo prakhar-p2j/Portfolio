@@ -8,7 +8,7 @@ tech:
   - CSS
   - Javascript
 company: 'Suven'
-showInProjects: true
+showInProjects: false
 ---
 
 Project 1 under Suven Coding Internship
