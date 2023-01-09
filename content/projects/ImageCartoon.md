@@ -7,7 +7,7 @@ tech:
   - Python
   - OpenCV
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Coded a Python Application to convert photo to cartoon, giving six image variations using matplotlib and Tkinter library
