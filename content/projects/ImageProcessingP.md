@@ -7,7 +7,7 @@ tech:
   - Python
   - Numpy
   - OpenCV
-showInProjects: true
+showInProjects: false
 ---
 
 Image Processing of different images in Python.
