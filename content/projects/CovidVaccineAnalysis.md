@@ -10,7 +10,7 @@ tech:
   - Matplotlib
   - Seaborn
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Analyzed how many vaccines each country is using to fight covid-19.
