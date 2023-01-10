@@ -2,8 +2,8 @@
 date: '3'
 title: 'Data Analysis of Sales data'
 cover: 'Dashboard 1.png'
-github: 'https://github.com/yashitanamdeo/Realtime-Face-Mask-Detection'
-external: 'https://drive.google.com/file/d/1AFIZC2R4F3pmTlNZgq4BcIC2Uv_l2UGI/view?usp=sharing'
+github: 'https://github.com/prakhar-p2j/Sales-Data-Analysis-and-Visualization/'
+external: 'https://public.tableau.com/views/SalesDataAnalysisInsights/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'
 tech:
   - MySQL
   - Tableau
