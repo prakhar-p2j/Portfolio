@@ -3,6 +3,7 @@ date: '2'
 title: 'Spotify Data Analysis'
 cover: 'spotify data analysis.png'
 github: 'https://github.com/prakhar-p2j/Spotify-Data-Analysis'
+external: 'https://github.com/prakhar-p2j/Spotify-Data-Analysis/blob/main/spotify%20analysis.ipynb'
 tech:
   - Python
   - Jupyter Notebook
