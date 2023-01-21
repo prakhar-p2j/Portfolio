@@ -5,7 +5,7 @@ company: 'Forage'
 location: remote
 range: ''
 url: 'https://www.theforage.com/'
-show in jobs: False
+showInJobs: false
 ---
 
 
