@@ -8,4 +8,4 @@ tech:
 showInProjects: True
 ---
 
-Data Visualization of Detailes of Movies and TV Shows on Netflix app.
+Data Visualization of Number of Movies and Tv Shows by geographical region, release year and genres.
